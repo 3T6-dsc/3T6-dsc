@@ -54,7 +54,7 @@
 ### 📫 Me contacter
 
 <p align="center">
-  <a href="https://discord.com/users/TON_ID_DISCORD_ICI" target="_blank">
+  <a href="https://discord.com/users/1393019545522012271" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://owlbot.fr" target="_blank">
