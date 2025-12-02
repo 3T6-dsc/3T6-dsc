@@ -25,16 +25,15 @@
 ### 📊 Mes Statistiques GitHub
 
 <div align="center">
-  <!-- Les stats et les langages sont mis côte à côte pour gagner de la place -->
+  <!-- Correction : Suppression de count_private et include_all_commits -->
   <a href="https://github.com/3T6-dsc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3T6-dsc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lilian's Github Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3T6-dsc&show_icons=true&theme=tokyonight" alt="Lilian's Github Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3T6-dsc&layout=compact&theme=tokyonight" alt="Top Langs" />
   </a>
 </div>
 
 <br/>
 
-<!-- C'est ce lien ci-dessous qui était cassé, voici la version réparée -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=3T6-dsc&theme=tokyonight" alt="Activity Graph" />
 </div>
