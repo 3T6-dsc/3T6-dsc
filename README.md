@@ -52,14 +52,6 @@
 
 ---
 
-### 📫 Me contacter
-
-<p align="center">
-  <a href="https://discord.com/users/1393019545522012271" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
 <p align="center">
 ⭐️ Merci de passer sur mon profil ! N’hésite pas à <b>suivre</b> ou <b>forker mes projets</b>.
 </p>
