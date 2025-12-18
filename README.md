@@ -1,14 +1,17 @@
 <h1 align="center">👋 Hey, moi c’est Lilian aka 3T6-dsc</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeur+Discord+%26+Web;Passionn%C3%A9+de+Tech+%26+d'Innovation;Cr%C3%A9ateur+d'Owlbot" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeur+Discord+%26+Web;Passionn%C3%A9+de+Tech+%26+d'Innovation" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 À propos de moi
 
-- 🔭 Je travaille actuellement sur [**Owlbot**](https://owlbot.fr) — un bot Discord innovant 🇫🇷  
-- 🌍 Je rêve d'un web plus créatif, plus interactif, plus humain.
+- 💻 Développeur Discord & Web, orienté projets concrets et utiles  
+- 🌍 Convaincu par un web plus créatif, plus interactif et plus humain  
+- 🔧 J’aime construire, améliorer et maintenir des outils communautaires
 
 **🛠️ Ma Stack Technique :**
 <p align="left">
@@ -25,7 +28,6 @@
 ### 📊 Mes Statistiques GitHub
 
 <div align="center">
-  <!-- Correction : Suppression de count_private et include_all_commits -->
   <a href="https://github.com/3T6-dsc">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3T6-dsc&show_icons=true&theme=tokyonight" alt="Lilian's Github Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3T6-dsc&layout=compact&theme=tokyonight" alt="Top Langs" />
@@ -56,9 +58,8 @@
   <a href="https://discord.com/users/1393019545522012271" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://owlbot.fr" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"/>
-  </a>
 </p>
 
-<p align="center">⭐️ Merci de passer sur mon profil ! N’hésite pas à <b>suivre</b> ou <b>forker mes projets</b> !</p>
+<p align="center">
+⭐️ Merci de passer sur mon profil ! N’hésite pas à <b>suivre</b> ou <b>forker mes projets</b>.
+</p>
